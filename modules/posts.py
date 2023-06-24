@@ -1,4 +1,3 @@
-# -*- coding: cp1251 -*-
 import random
 import logging
 from asyncio import sleep
