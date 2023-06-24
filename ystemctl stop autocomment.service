@@ -1,0 +1,18 @@
+[0;1;32m*[0m autocomment.service - telegram bot
+   Loaded: loaded (/etc/systemd/system/autocomment.service; disabled; vendor preset: enabled)
+   Active: [0;1;32mactive (running)[0m since Sun 2023-06-11 18:00:52 MSK; 44min ago
+ Main PID: 4545 (python3.9)
+    Tasks: 2 (limit: 1123)
+   CGroup: /system.slice/autocomment.service
+           `-4545 /usr/bin/python3.9 userbot.py
+
+Jun 11 18:25:41 1519495-cg30876.twc1.net python3.9[4545]: ERROR:pyrogram.dispatcher:You exceeded your current quota, please check your plan and billing details.
+Jun 11 18:25:41 1519495-cg30876.twc1.net python3.9[4545]: openai.error.RateLimitError: You exceeded your current quota, please check your plan and billing details.
+Jun 11 18:32:02 1519495-cg30876.twc1.net python3.9[4545]: INFO:userbot:|Тест 2182)|:Caught message. (Text: Алье как ты..)
+Jun 11 18:34:52 1519495-cg30876.twc1.net python3.9[4545]: ERROR:pyrogram.dispatcher:You exceeded your current quota, please check your plan and billing details.
+Jun 11 18:34:52 1519495-cg30876.twc1.net python3.9[4545]: openai.error.RateLimitError: You exceeded your current quota, please check your plan and billing details.
+Jun 11 18:39:21 1519495-cg30876.twc1.net python3.9[4545]: INFO:userbot:|Утушкин ❤️ $MDAO 18+|:Caught message. (Text: )
+Jun 11 18:42:12 1519495-cg30876.twc1.net python3.9[4545]: INFO:userbot:|Утушкин ❤️ $MDAO 18+|:Answered.
+Jun 11 18:42:26 1519495-cg30876.twc1.net python3.9[4545]: INFO:userbot:|Дмитрий Ткачев| Эксперт криптовалют|:Caught message. (Text: )
+Jun 11 18:45:17 1519495-cg30876.twc1.net python3.9[4545]: ERROR:pyrogram.dispatcher:You exceeded your current quota, please check your plan and billing details.
+Jun 11 18:45:17 1519495-cg30876.twc1.net python3.9[4545]: openai.error.RateLimitError: You exceeded your current quota, please check your plan and billing details.

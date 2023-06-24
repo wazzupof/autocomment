@@ -1,0 +1,10 @@
+[0;1;32m*[0m autocomment.service - telegram bot
+   Loaded: loaded (/etc/systemd/system/autocomment.service; disabled; vendor preset: enabled)
+   Active: [0;1;32mactive (running)[0m since Mon 2023-06-12 16:01:37 MSK; 5s ago
+ Main PID: 20322 (python3.9)
+    Tasks: 2 (limit: 1123)
+   CGroup: /system.slice/autocomment.service
+           `-20322 /usr/bin/python3.9 userbot.py
+
+Jun 12 16:01:37 1519495-cg30876.twc1.net systemd[1]: Started telegram bot.
+Jun 12 16:01:38 1519495-cg30876.twc1.net python3.9[20322]: INFO:userbot:Started!
