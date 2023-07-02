@@ -107,7 +107,7 @@ Both methods are allowed:
 ![](readme/markdown_html.png)
 ## Used Python modules
 ```
-pyrogram=1.4.16
+pyrogram
 tgcrypto
 ```
 
